@@ -1,0 +1,22 @@
+export default [
+    "https://rickandmortyapi.com/api/character/avatar/8.jpeg",
+    "https://rickandmortyapi.com/api/character/avatar/4.jpeg",
+    "https://rickandmortyapi.com/api/character/avatar/9.jpeg",
+    "https://rickandmortyapi.com/api/character/avatar/10.jpeg",
+    "https://rickandmortyapi.com/api/character/avatar/1.jpeg",
+    "https://rickandmortyapi.com/api/character/avatar/3.jpeg",
+    "https://rickandmortyapi.com/api/character/avatar/5.jpeg",
+    "https://rickandmortyapi.com/api/character/avatar/7.jpeg",
+    "https://rickandmortyapi.com/api/character/avatar/7.jpeg",
+    "https://rickandmortyapi.com/api/character/avatar/6.jpeg",
+    "https://rickandmortyapi.com/api/character/avatar/3.jpeg",
+    "https://rickandmortyapi.com/api/character/avatar/2.jpeg",
+    "https://rickandmortyapi.com/api/character/avatar/10.jpeg",
+    "https://rickandmortyapi.com/api/character/avatar/1.jpeg",
+    "https://rickandmortyapi.com/api/character/avatar/8.jpeg",
+    "https://rickandmortyapi.com/api/character/avatar/2.jpeg",
+    "https://rickandmortyapi.com/api/character/avatar/9.jpeg",
+    "https://rickandmortyapi.com/api/character/avatar/5.jpeg",
+    "https://rickandmortyapi.com/api/character/avatar/6.jpeg",
+    "https://rickandmortyapi.com/api/character/avatar/4.jpeg"
+]

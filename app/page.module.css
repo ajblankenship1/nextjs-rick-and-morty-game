@@ -1,0 +1,23 @@
+
+
+.gameBoard{
+    display: flex;
+}
+
+.hideCard{
+    opacity: 0;
+}
+
+.showCard{
+    opacity: 1;
+    list-style-type:none;
+}
+
+.showBackOfCard{
+    width: 170px;
+    height: 200px;
+    background-image: url(../public/rick-and-morty-fan-art-022bj8uvkmdaboje.jpg);
+    background-size: contain;
+    margin: 0px 20px;
+    display: inline-block;
+}
